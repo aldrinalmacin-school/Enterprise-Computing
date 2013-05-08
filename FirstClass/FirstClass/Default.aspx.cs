@@ -11,7 +11,13 @@ namespace FirstClass
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            string x = "Hello World";
 
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "You typed " + TextBox1.Text;
         }
     }
 }
