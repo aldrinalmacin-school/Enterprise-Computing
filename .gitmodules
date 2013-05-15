@@ -1,0 +1,3 @@
+[submodule "ec-week2"]
+	path = ec-week2
+	url = https://github.com/aldrinalmacin-school/ec-week2.git
